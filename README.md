@@ -1,4 +1,4 @@
-# gameJavaScript
+# GameJavaScript
 
 ## Pré-requisitos.
 
