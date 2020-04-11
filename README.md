@@ -1,21 +1,23 @@
-## gameJavaScript
+# gameJavaScript
 
-### Antes de tudo
-```
-Instalar o node
-```
+## Pré-requisitos.
 
-### Após clonar
-```
-npm install
-```
+* [nodeJS](https://nodejs.org/en/)
 
-### Executar o código
-```
-yarn dev
-```
+## Instalação
 
-### Em um browser de sua preferência
-```
-localhost:3000
-```
+* Para instalar os plugins necessários.
+
+``` bash cd gameJavaScript ```
+
+* Execute
+
+``` npm install ```
+
+* Execute o código
+
+``` yarn dev ```
+
+* Abra o navegador de sua preferência em
+
+``` localhost:3000 ```
