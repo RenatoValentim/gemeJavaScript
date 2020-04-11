@@ -18,7 +18,7 @@ cd gameJavaScript
 npm install
 ```
 
-* Execute o código
+* Para executar o código
 
 ```
 yarn dev
