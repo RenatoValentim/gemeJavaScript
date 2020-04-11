@@ -8,16 +8,24 @@
 
 * Para instalar os plugins necessários.
 
-``` bash cd gameJavaScript ```
+```
+bash cd gameJavaScript
+```
 
 * Execute
 
-``` npm install ```
+```
+npm install
+```
 
 * Execute o código
 
-``` yarn dev ```
+```
+yarn dev
+```
 
 * Abra o navegador de sua preferência em
 
-``` localhost:3000 ```
+```
+localhost:3000
+```
