@@ -8,8 +8,8 @@
 
 * Para instalar os plugins necessários.
 
-```
-bash cd gameJavaScript
+``` bash
+cd gameJavaScript
 ```
 
 * Execute
